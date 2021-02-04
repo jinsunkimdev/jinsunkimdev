@@ -2,6 +2,6 @@
 
 My name is JinsunKim from South Korea.
 
-🌱 I’m currently learning JAVA, JAVASCRIPT, SPRING, HTML, CSS...
+🌱 I’m currently learning Web Development Course
 
 
