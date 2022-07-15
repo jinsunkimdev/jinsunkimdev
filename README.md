@@ -2,7 +2,4 @@
 
 My name is JinsunKim from South Korea.
 
-🌱 I’m currently learning Web Development Course
-
-
-
+🌱 I am currently working in Japan
